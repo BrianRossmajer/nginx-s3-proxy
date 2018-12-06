@@ -1,4 +1,4 @@
-FROM phusion/baseimage:0.9.19
+FROM phusion/baseimage:0.10.0
 MAINTAINER Joshua Noble <acejam@gmail.com>
 
 RUN locale-gen en_US.UTF-8
